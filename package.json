@@ -1,0 +1,23 @@
+{
+  "name": "gitTest",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mahboob-awan/gitTest.git"
+  },
+  "keywords": [
+    "git",
+    "nodejs"
+  ],
+  "author": "awan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahboob-awan/gitTest/issues"
+  },
+  "homepage": "https://github.com/mahboob-awan/gitTest"
+}
